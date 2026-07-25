@@ -230,7 +230,7 @@
 }
 
 .chattingArea label {
-    color: #8b949e !alignment;
+    color: #8b949e !important;
 }
 
 .chattingArea fieldset {
